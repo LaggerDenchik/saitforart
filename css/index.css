@@ -1,0 +1,64 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+
+.artist{
+    height: 672px;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.imgart{
+    overflow: hidden;
+    height: 672px;
+    background-repeat: no-repeat;
+    background-position-x: 100%;
+    background-position-y: 100%;
+    background-size: 500px;
+    /* width: 450px;
+    border-radius: 450px;
+    border: 10px solid rgb(255, 253, 130);
+    overflow: hidden;
+    background: rgba(255,255,255,1);
+    background: -moz-radial-gradient(center, ellipse cover, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 0%, rgba(156,156,156,1) 63%, rgba(112,112,112,1) 100%);
+    background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%, rgba(255,255,255,1)), color-stop(0%, rgba(255,255,255,1)), color-stop(63%, rgba(156,156,156,1)), color-stop(100%, rgba(112,112,112,1)));
+    background: -webkit-radial-gradient(center, ellipse cover, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 0%, rgba(156,156,156,1) 63%, rgba(112,112,112,1) 100%);
+    background: -o-radial-gradient(center, ellipse cover, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 0%, rgba(156,156,156,1) 63%, rgba(112,112,112,1) 100%);
+    background: -ms-radial-gradient(center, ellipse cover, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 0%, rgba(156,156,156,1) 63%, rgba(112,112,112,1) 100%);
+    background: radial-gradient(ellipse at center, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 0%, rgba(156,156,156,1) 63%, rgba(112,112,112,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#707070', GradientType=1 ); */
+}
+
+.text_content#right{
+    width: 100%;
+    margin-left: 200px;
+}
+
+.artist_content#right{
+    width: 65%;
+}
+
+#artist2{
+    background-position-x: 0%;
+    background-position-y: 100%;
+}
+
+.text_content{
+    display: flex;
+    justify-content: center;
+    width: 80%;
+    font-family: 'Comfortaa', cursive;
+}
+
+.artist_content{
+    /* background-color: rgb(255, 255, 255);
+    border-radius: 15px;
+    border: 1px solid rgb(223, 223, 223); */
+    margin-top: 250px;
+    width: 80%;
+    padding: 10px;
+    font-size: 30px;
+    text-align: justify;
+}
+
