@@ -12,7 +12,7 @@
         <link rel="stylesheet" href="css/index.css" type="text/css">
         <link href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;500&display=swap" rel="stylesheet">
         <link rel="shortcut icon" href="/images/logo.png" type="image/x-icon">
-        <title>Главная</title>
+        <title>Главная страница</title>
     </head>
     <body>
 
